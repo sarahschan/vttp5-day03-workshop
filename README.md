@@ -1,3 +1,4 @@
-## DAY 3 WORKSHOP
+## DAY 3 WORKSHOP - Shopping Cart (w file reading and writing)
 
-VTTP5a Day 3 Workshop - Shopping Cart (with file reading and writing)
+- Shopping Cart assignment, with file reading and writing
+- Program allows users to login, load, and save their cart using a file
